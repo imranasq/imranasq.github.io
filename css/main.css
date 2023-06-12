@@ -269,3 +269,186 @@ footer a:not(.nav-link) {
 .entry-title a {
   text-decoration: none;
 }
+
+.col-md-4{
+  background-color: #86edbb;
+}
+
+.background-python {
+  background-color: #13b5b0;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Additional styles specific to each element */
+  margin-bottom: 10px;
+}
+
+.background-csharp {
+  background-color: #800080;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+}
+.background-javascript {
+  background-color: #F7DF1E;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to JavaScript */
+}
+
+.background-php {
+  background-color: #777BB4;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to PHP */
+}
+
+.background-django {
+  background-color: #092E20;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to Django */
+}
+
+.background-drf {
+  background-color: #FFD200;
+  text-align: center;
+  color: #fcfbfb;
+  width: 70%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to Django Rest Framework */
+}
+
+.background-odoo {
+  background-color: #EF5A29;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to ODOO */
+}
+
+.background-flask {
+  background-color: #000000;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to Flask */
+}
+
+.background-postgres {
+  background-color: #5d6acf;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to Django */
+}
+
+.background-vs {
+  background-color: #235c59;
+  text-align: center;
+  color: #fcfbfb;
+  width: 40%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to Django Rest Framework */
+}
+
+.background-git {
+  background-color: #e467c5;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to ODOO */
+}
+
+.background-pycharm {
+  background-color: #1565ba;
+  text-align: center;
+  color: #fcfbfb;
+  width: 30%;
+  height: 15%;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+  /* Additional styles specific to Flask */
+}
+
+/* Add styles for other classes as needed */
