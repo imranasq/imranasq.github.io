@@ -273,6 +273,12 @@ footer a:not(.nav-link) {
 .col-md-4{
   background-color: #86edbb;
 }
+.rounded-pill:hover {
+  transform: scale(1.05);
+  background-color: #f8f9fa; /* Example highlight color */
+  transition: all 0.3s ease-in-out;
+}
+
 
 .background-python {
   background-color: #13b5b0;
@@ -347,7 +353,7 @@ footer a:not(.nav-link) {
 }
 
 .background-drf {
-  background-color: #FFD200;
+  background-color: #bb2a11;
   text-align: center;
   color: #fcfbfb;
   width: 70%;
